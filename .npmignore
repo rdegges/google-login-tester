@@ -1,2 +1,5 @@
 .gitignore
 UNLICENSE
+README.md
+*.gif
+*.png
