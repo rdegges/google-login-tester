@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/rdegges/google-login-tester",
   "dependencies": {
+    "prompt": "^0.2.14",
     "sprintf-js": "^1.0.2"
   }
 }
