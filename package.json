@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "A CLI utility for testing Google Login.",
   "main": "index.js",
+  "bin": {
+    "google-login-tester": "./bin/google-login-tester"
+  },
   "scripts": {
-    "start": "node index.js"
+    "start": "node bin/google-login-tester"
   },
   "repository": {
     "type": "git",
