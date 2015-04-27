@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/rdegges/google-login-tester/issues"
   },
-  "homepage": "https://github.com/rdegges/google-login-tester"
+  "homepage": "https://github.com/rdegges/google-login-tester",
+  "dependencies": {
+    "sprintf-js": "^1.0.2"
+  }
 }
