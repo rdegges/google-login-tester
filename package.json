@@ -1,0 +1,25 @@
+{
+  "name": "google-login-tester",
+  "version": "1.0.0",
+  "description": "A CLI utility for testing Google Login.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rdegges/google-login-tester"
+  },
+  "keywords": [
+    "google",
+    "login",
+    "testing",
+    "oauth2"
+  ],
+  "author": "Randall Degges",
+  "license": "UNLICENSE",
+  "bugs": {
+    "url": "https://github.com/rdegges/google-login-tester/issues"
+  },
+  "homepage": "https://github.com/rdegges/google-login-tester"
+}
