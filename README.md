@@ -52,11 +52,20 @@ Once you have `google-login-tester` installed, you can use it by simply running
 Application's Client ID and Redirect URI, and will give you a URL you can
 copy+paste into your web browser to test out the Google Login flow.
 
+```console
+$ google-login-tester
+```
+
 At the end of the login flow process, you'll have a valid Google Authorization
 Token you can use to test your code / project / whatever.
 
 
 ## Changelog
+
+v1.0.1 4-27-2015
+
+    - Fixing initial packaging issues.
+    - Fixing initial documentation issues.
 
 v1.0.0: 4-27-2015
 
