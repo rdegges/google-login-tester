@@ -62,7 +62,11 @@ Token you can use to test your code / project / whatever.
 
 ## Changelog
 
-v1.0.1 4-27-2015
+v1.0.2: 4-27-2015
+
+    - Adding shebang to script.
+
+v1.0.1: 4-27-2015
 
     - Fixing initial packaging issues.
     - Fixing initial documentation issues.
