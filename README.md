@@ -34,10 +34,13 @@ login flow, and generate a valid Authorization Token.
 To install `google-login-tester` using [npm](https://www.npmjs.org/), simply run:
 
 ```console
-$ npm install google-login-tester
+$ npm install -g google-login-tester
 ```
 
 In the root of your project directory.
+
+**NOTE**: You might need to run the above command with `sudo` depending on how
+you installed node.
 
 
 ## Usage
