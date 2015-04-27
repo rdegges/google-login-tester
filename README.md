@@ -3,7 +3,7 @@
 [![NPM Version](https://img.shields.io/npm/v/google-login-tester.svg?style=flat)](https://npmjs.org/package/google-login-tester)
 [![NPM Downloads](http://img.shields.io/npm/dm/google-login-tester.svg?style=flat)](https://npmjs.org/package/google-login-tester)
 
-**The simplest way to test Google Login.**
+*The simplest way to test Google Login.*
 
 ![Mad Scientist Sketch](https://github.com/rdegges/google-login-tester/raw/master/mad-scientist-sketch.png)
 
