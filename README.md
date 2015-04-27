@@ -1,7 +1,7 @@
 # google-login-tester
 
-[![NPM Version](https://img.shields.io/npm/v/lupus.svg?style=flat)](https://npmjs.org/package/lupus)
-[![NPM Downloads](http://img.shields.io/npm/dm/lupus.svg?style=flat)](https://npmjs.org/package/lupus)
+[![NPM Version](https://img.shields.io/npm/v/google-login-tester.svg?style=flat)](https://npmjs.org/package/google-login-tester)
+[![NPM Downloads](http://img.shields.io/npm/dm/google-login-tester.svg?style=flat)](https://npmjs.org/package/google-login-tester)
 
 **The simplest way to test Google Login.**
 
